@@ -8,10 +8,10 @@ Entry for the [One-Liner Laugh Lab](https://make.fun/bounty/u-suroso-69-one-line
 
 ## The line
 
-> House rules, section 4: any sock left on the floor for over 24 hours is legally dust.
+> Any sock on the floor is presumed dust until proven laundry.
 
 - Prompt answered: the excuse a robot vacuum gives after eating a sock.
-- Length: 85 characters (1–200 required), single line, no trailing newline.
+- Length: 60 characters (1–200 required), single line, no trailing newline.
 
 ## How it works
 
